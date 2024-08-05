@@ -1,11 +1,2 @@
 # calculator
-This HTML document creates a basic calculator interface with a clean, user-friendly layout. It includes:
-
-Header and Metadata: The <head> section sets the page title to "Calculator" and links to an external CSS file (styles.css) for styling.
-Calculator Layout:
-Display: An input field (#inputBox) displays numbers and results, styled for clarity with a large font.
-Buttons: Organized into rows for easy access:
-Operators: Includes buttons for clearing the display ("AC"), deleting the last entry ("DEL"), calculating percentages ("%"), and basic arithmetic operations (division /, multiplication *, subtraction -, and addition +).
-Number Keys: Contains buttons for digits 0 through 9, plus "00" and a decimal point for entering numbers.
-Equal Button: A button (equalBtn) to trigger the calculation of the entered expression.
-The layout is designed for straightforward use, with buttons styled to be distinct and easily clickable. The styles.css file, referenced in the document, is expected to define the visual appearance and layout of these elements.
+This HTML document sets up a simple calculator web application with a straightforward and user-friendly design. It begins with essential metadata and links to an external CSS file for styling. The main content is a calculator interface featuring a large input display for showing numbers and results. The calculator includes buttons organized into rows for ease of use: basic arithmetic operators (addition, subtraction, multiplication, division), a clear button ("AC"), a delete button ("DEL"), percentage button ("%"), and numerical keys (0-9), including "00" and a decimal point. An equal button (=) is provided to execute calculations. The layout ensures that the calculator is both functional and easy to navigate, with styling managed through the linked CSS file.
